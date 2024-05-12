@@ -27,7 +27,7 @@ h1{
 }
 .textBox{
     margin: 2vw;
-    width:40vw;
+    width:35vw;
     h2{
         font-family: "Poetsen One", sans-serif;
         /* font-family: "Shrikhand", sans-serif; */
@@ -36,6 +36,9 @@ h1{
         color: #856D8D;
     }
     
+}
+.purple{
+    color: #856D8D;
 }
 .photo{
     /* size: 40%; */
