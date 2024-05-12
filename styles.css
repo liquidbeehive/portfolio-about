@@ -26,17 +26,21 @@ h1{
     text-align: center;
 }
 .textBox{
-    margin: 3vw 20vw;
+    margin: 2vw;
+    width:40vw;
     h2{
         font-family: "Poetsen One", sans-serif;
         /* font-family: "Shrikhand", sans-serif; */
         font-size: 2.5rem;
         margin-top: 3vw;
+        color: #856D8D;
     }
+    
 }
 .photo{
     /* size: 40%; */
-    width:60vw;
+    height:43vw;
+
 }
 .photoRow{
     display: flex;
@@ -47,9 +51,7 @@ h1{
     display: flex;
     text-align:center;
 }
-.header{
-    size: 50px;
-}
+
 .metricTitle{
     display: flex;
     background-color: #856D8D;
@@ -57,6 +59,12 @@ h1{
     h1{
         color: #ffffff;
     }
+}
+.pageContent{
+    display: flex;
+    justify-content: center;
+    /* margin-bottom: auto; */
+    align-items: center;
 }
 .pageFooter{
     margin: 10rem;
